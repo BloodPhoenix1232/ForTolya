@@ -1,0 +1,14 @@
+D:\Desktop\Лабараторные\Анализ\Lab3\Lab3\bin\Debug\net8.0\Lab3.exe
+D:\Desktop\Лабараторные\Анализ\Lab3\Lab3\bin\Debug\net8.0\Lab3.deps.json
+D:\Desktop\Лабараторные\Анализ\Lab3\Lab3\bin\Debug\net8.0\Lab3.runtimeconfig.json
+D:\Desktop\Лабараторные\Анализ\Lab3\Lab3\bin\Debug\net8.0\Lab3.dll
+D:\Desktop\Лабараторные\Анализ\Lab3\Lab3\bin\Debug\net8.0\Lab3.pdb
+D:\Desktop\Лабараторные\Анализ\Lab3\Lab3\obj\Debug\net8.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Лабараторные\Анализ\Lab3\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfoInputs.cache
+D:\Desktop\Лабараторные\Анализ\Lab3\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfo.cs
+D:\Desktop\Лабараторные\Анализ\Lab3\Lab3\obj\Debug\net8.0\Lab3.csproj.CoreCompileInputs.cache
+D:\Desktop\Лабараторные\Анализ\Lab3\Lab3\obj\Debug\net8.0\Lab3.dll
+D:\Desktop\Лабараторные\Анализ\Lab3\Lab3\obj\Debug\net8.0\refint\Lab3.dll
+D:\Desktop\Лабараторные\Анализ\Lab3\Lab3\obj\Debug\net8.0\Lab3.pdb
+D:\Desktop\Лабараторные\Анализ\Lab3\Lab3\obj\Debug\net8.0\Lab3.genruntimeconfig.cache
+D:\Desktop\Лабараторные\Анализ\Lab3\Lab3\obj\Debug\net8.0\ref\Lab3.dll
